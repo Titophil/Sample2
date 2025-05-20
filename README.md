@@ -29,7 +29,7 @@ Edit
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/perg-ioba-classification.git
+git clone git@github.com:Titophil/Sample2.git
 cd Sample2
 2. Install dependencies
 bash
@@ -87,8 +87,6 @@ Normal (0)	0.54	0.52	0.53	25
 Abnormal (1)	0.73	0.74	0.74	43
 Accuracy			0.66	68
 
-Confusion Matrix
-A confusion matrix plot is saved as confusion_matrix.png.
 
 🧠 Potential Improvements
 Apply feature scaling or normalization.
